@@ -35,6 +35,29 @@ Python · FastAPI · MCP · Docker
 
 [공개 설계·실행 예제](https://github.com/latemo/promptguard-showcase) · [구현 구조·모의 검증 기록](https://orivon-systems.vercel.app/project.html?id=promptguard)
 
+### 가치봄 | 무장애 제주 여행 판단 보조
+Python · 웹 프런트엔드 · OpenAI API · RAG/BM25
+
+이동 조건과 접근성 정보를 대조하고 추천 이유·방문 전 확인사항을 제시합니다. 추천 정책과 근거 검색을 LLM 문장 생성과 분리했습니다.
+
+[기술 스택·프로젝트 소개](https://github.com/latemo/gachibom-showcase) · [시연·검증 범위](https://orivon-systems.vercel.app/project.html?id=gachibom)
+
+### 천안흥타령춤축제 | 다국어 축제 안내
+React · TypeScript · Vite · MapLibre · Vercel
+
+5개 언어로 프로그램·지도·먹거리·방문 일정을 연결합니다. 언어를 유지하는 공유 URL, 규칙 기반 방문 추천과 저장된 안내의 오프라인 열람을 구성했습니다. 개인 개발 프로젝트이며 생성형 AI 추천으로 소개하지 않습니다.
+
+[기술 스택·프로젝트 소개](https://github.com/latemo/cheonan-festival-showcase) · [화면·검증 범위](https://orivon-systems.vercel.app/project.html?id=cheonan-festival)
+
+### GUARDIAN XR | 라이더 온디바이스 HUD
+YOLOv8n · Depth Anything V2 · TensorFlow.js · ONNX Runtime Web · Python
+
+객체 검출·단안 깊이·접근 징후를 결합해 HUD 정보의 표시 우선순위를 다루는 프로토타입입니다. 포크 기반 작업이 포함되며 전체 코드의 단독 창작이나 실제 도로 안전성 검증을 주장하지 않습니다.
+
+[기술 스택·프로젝트 소개](https://github.com/latemo/guardian-xr-showcase) · [프로젝트 상세](https://orivon-systems.vercel.app/project.html?id=guardian-xr)
+
+> 가치봄·천안흥타령·GUARDIAN XR 공개 저장소에는 소개 문서만 있습니다. 소스·예제 코드·모델·운영 데이터는 공개하지 않습니다.
+
 ## 실무 기반
 
 - **에이럭스 / 플랫폼본부 팀장:** 교육 서비스 REST API, MSSQL 튜닝, Azure 이관, ActiveX의 HTML5 전환, Laravel 결제 연동, PHP·MySQL 업그레이드
