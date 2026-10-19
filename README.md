@@ -19,21 +19,21 @@ Next.js · TypeScript · Prisma · PostgreSQL · OpenAI · Kakao Maps
 
 여행 조건에 따른 추천을 지도·관광지·공식 출처·지역 상품으로 연결했습니다. LLM의 장소·상품 ID를 실제 후보와 대조하고 공급자 실패 시 규칙 기반 추천을 제공합니다.
 
-[구현 범위·시연·검증 기록](https://orivon-systems.vercel.app/project.html?id=tourism-commerce)
+[공개 설계·실행 예제](https://github.com/latemo/hoengseong-travel-showcase) · [구현 범위·시연·검증 기록](https://orivon-systems.vercel.app/project.html?id=tourism-commerce)
 
 ### jinBreaks | AI 업무 실행 플랫폼
 React · TypeScript · Vite · Hermes Runner · Obsidian
 
 요청·승인·실행·결과를 구분하고, 실행 ID와 차수를 기준으로 중복 종료와 뒤늦은 응답이 확정 기록을 덮어쓰지 않도록 구성했습니다.
 
-[설계 판단·화면·검증 범위](https://orivon-systems.vercel.app/project.html?id=jinbreaks)
+[공개 설계·실행 예제](https://github.com/latemo/jinbreaks-showcase) · [설계 판단·화면·검증 범위](https://orivon-systems.vercel.app/project.html?id=jinbreaks)
 
 ### PromptGuard | AI 도구 호출 검사
 Python · FastAPI · MCP · Docker
 
 도구 호출 직전 도구명과 인자를 검사하고, 차단·검토 요청은 전달하지 않는 게이트웨이와 SDK를 개발했습니다. 전달 경로 검사와 실제 공격 탐지 정확도는 구분합니다.
 
-[구현 구조·모의 검증 기록](https://orivon-systems.vercel.app/project.html?id=promptguard)
+[공개 설계·실행 예제](https://github.com/latemo/promptguard-showcase) · [구현 구조·모의 검증 기록](https://orivon-systems.vercel.app/project.html?id=promptguard)
 
 ## 실무 기반
 
